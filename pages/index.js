@@ -10,12 +10,8 @@ const Hello = () => <div>
         <li><a href="page6">Page 6</a></li>
         <li><a href="page7">Page 7</a></li>
         <li><a href="page8">Page 8</a></li>
-<<<<<<< HEAD
         <li><a href="myPage1">My Page1</a></li>
-
-=======
         <li><a href="page9">Page 9</a></li>
->>>>>>> a5a8e7d03d1e8dce62388dcd95c05d0c46da6610
     </ul>
     <h2>Using map and flexbox</h2>
     <ul>
@@ -36,3 +32,4 @@ const Hello = () => <div>
 // This means you can access it either as localhost:3000/index or just as localhost:3000/
 
 export default Hello
+
