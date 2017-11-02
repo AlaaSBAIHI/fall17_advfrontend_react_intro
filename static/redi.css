@@ -1,0 +1,19 @@
+
+.card_background{
+  background-color: white;
+}
+
+.title{
+  font-size: 24px;
+  color: red !important ;
+}
+
+.text{
+  font-size: 14px;
+  color: black;
+}
+
+.borders{
+  margin: 30px;
+  border: 5px;
+}
