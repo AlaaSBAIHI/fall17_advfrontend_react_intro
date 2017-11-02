@@ -12,6 +12,7 @@ const Hello = () => <div>
         <li><a href="page8">Page 8</a></li>
         <li><a href="myPage1">My Page1</a></li>
         <li><a href="myPage2">My Page2</a></li>
+        <li><a href="myPage3">My Page3</a></li>
         <li><a href="page9">Page 9</a></li>
         <li><a href="page10">Page 10</a></li>
 
